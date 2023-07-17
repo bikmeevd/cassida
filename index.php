@@ -221,7 +221,7 @@
             </div>
             <div class="col-lg-6">
               <form
-                action="https://formsubmit.co/d877e6bff0c31bd37a8ffab8b564a98c"
+                action="https://formsubmit.co/94ff7976ad0bc470857d4c8c3b039aa5"
                 method="POST"
               >
                 <div class="form-group">
